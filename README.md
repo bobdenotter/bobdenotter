@@ -1,6 +1,7 @@
-👋 Hi, my name is Bob! I'm the CEO at [Two Kings](https://twokings.nl), a webdevelopment agency that's based in The Hague, Netherlands. Most of my activity on Github is centered on my work on Bolt, and related packages in the Bolt ecosystem. If you'd like, you can sponser me for [my work on Bolt](https://github.com/sponsors/bobdenotter). 
+👋 Hi, my name is Bob! I'm CTO at [Two Kings](https://twokings.nl), a webdevelopment agency that's based in The Hague, The Netherlands. Most of my activity on Github is centered on my work on Bolt, and related packages in the Bolt ecosystem. If you'd like, you can sponser me for [my work on Bolt](https://github.com/sponsors/bobdenotter). 
 
 ### Bolt 
+
 Bolt is a fully open source, adaptable platform for building and running modern websites. It's built on PHP, Symfony, Doctrine, Twig, API-Platform and more. Bolt can be used as a traditional CMS or headless/decoupled. It is fully multilingual, and extensible using custom code in your projects, or through extensions installed from the Composer ecosystem.  See: https://boltcms.io
 
 ### Get in Touch
